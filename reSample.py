@@ -30,3 +30,4 @@ with open('/home/tommystarlit/Downloads/diff.txt', 'a') as df:
 []dodaj klase w logu,
 [x]append day by day
 """
+#test
